@@ -12,4 +12,8 @@ Pyber Challenge Repo
     * Average Fare per Driver
     * Total Fare by City Type
 
+## Information Breakdown
+![Summary of Information](https://github.com/CoryCMyers/PyBer_Analysis/blob/main/analysis/Capture.PNG)
+
+
 
