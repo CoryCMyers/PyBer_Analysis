@@ -31,7 +31,7 @@ When we look at the information for the total rides we see that
    
 ### <p align=center>Fare per Driver
    
-   * When the volume of driver increases the income per fare for the exponentially decreases]
+   * When the volume of driver increases the income per fare for the exponentially decreases
    
    * Possible Fix
       * When there are several service areas next to each other, reactively in the app increase income per fare for
